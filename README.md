@@ -1,6 +1,6 @@
 # GPPrefElicit
 
-GPPrefElicit is a python package,released under [MIT License](https://github.com/nawalgao/GPPrefElicit/blob/master/LICENSE), for eliciting personalized thermal preferences of occupants 
+GPPrefElicit is a python package (released under [MIT License](https://github.com/nawalgao/GPPrefElicit/blob/master/LICENSE)) for eliciting personalized thermal preferences of occupants 
 using [GPflow](https://github.com/GPflow/GPflow), and uses [TensorFlow](http://www.tensorflow.org).
 
 This GP-PE framework aims at finding occupant’s most preferred indoor room temperature with minimized number of survey queries to the occupants. GP-PE framework does this by: (1) maintaining a flexible representation of occupant’s utility function; (2) handle uncertainty in a principled manner; (3) select queries that allow the system to differentiate amongst the preferred states and (4) allow for incorporation of prior knowledge from different sources.
