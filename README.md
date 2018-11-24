@@ -7,7 +7,7 @@ It is currently maintained by [Nimish Awalgaonkar](https://www.predictivescience
 # Contributing
 If you are interested in contributing to this open source project, contact us through an issue on this repository.
 
- Citing GPflowOpt
+# Citing GPPrefElicit
 
 To cite GPPrefElicit, please reference *under review*.
 
