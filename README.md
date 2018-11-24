@@ -9,7 +9,7 @@ If you are interested in contributing to this open source project, contact us th
 
 # Citing GPPrefElicit
 
-To cite GPPrefElicit, please reference *under review*.
+To cite GPPrefElicit, please reference **paper is currently under review**.
 
 
 
