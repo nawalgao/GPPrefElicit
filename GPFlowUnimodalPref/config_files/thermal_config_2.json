@@ -1,0 +1,38 @@
+{
+"MCMC":
+	{
+		"MAP_optimize_maxiter" : 500,
+		"num_samples" : 3000,
+		"thin" : 2,
+		"burn" : 2000,
+		"epsilon" : 0.02,
+		"Lmax" : 10,
+		"verbose" : "True"
+	},
+"MAP":
+	{
+		"max_iter" : 500
+	},
+"Temp_RH_Gaussian":
+	{
+		"t_mean" : 25,
+		"t_var" : 16,
+		"rh_mean" : 50,
+		"rh_var" : 225,
+		"off_diag" : -20,
+		"u_norm" : 0.0032
+	},
+"Beta_Objective_func":
+	{
+		"a" : 6,
+		"b" : 8,
+		"l" : 20
+	},
+"Grid":
+	{
+		"min1" : 20,
+		"max1" : 27,
+		"temp_diff1" : 0.5,
+		"temp_diff2" : 3
+	}
+}
