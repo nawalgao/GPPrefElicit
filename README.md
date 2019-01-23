@@ -1,5 +1,7 @@
 # GPPrefElicit
 
+**WARNING: This package will be updated in near future.**
+
 GPPrefElicit is a python package (released under [MIT License](https://github.com/nawalgao/GPPrefElicit/blob/master/LICENSE)) for eliciting personalized thermal preferences of occupants 
 using [GPflow](https://github.com/GPflow/GPflow), and uses [TensorFlow](http://www.tensorflow.org).
 
